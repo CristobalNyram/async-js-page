@@ -1,0 +1,20 @@
+{
+  "name": "async-js-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristobalNyram/async-js-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristobalNyram/async-js-page/issues"
+  },
+  "homepage": "https://github.com/CristobalNyram/async-js-page#readme"
+}
